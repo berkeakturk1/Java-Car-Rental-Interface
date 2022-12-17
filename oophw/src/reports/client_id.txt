@@ -1,0 +1,6 @@
+Client ID: 1574
+Total amount of times a car has been rented: 1
+Total amount of money spent by Client: 3000
+1. Car locations: 
+Pick-up location: bruh
+Drop-off location: anan
